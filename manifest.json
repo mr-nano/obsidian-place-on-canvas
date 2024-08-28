@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "lay-on-canvas",
+	"name": "Lay on canvas",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "A plugin to find notes matching a Regex or tag and place them on the canvas.",
+	"author": "Dhruv",
+	"authorUrl": "https://collective-me.vercel.app",
 	"isDesktopOnly": false
 }
